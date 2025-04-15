@@ -11,6 +11,6 @@ Now I am a postdoc at MPIM Bonn, after I obtained my doctorate degree at Tsinghu
 
 My reserach interests are cluster algebras and Hall algebras. In particular, I am very interested in the categorification of quantum cluster algebras and Cohomological Hall algebras. 
 
-You can find my CV here: [Fang Yang's CV](../assets/CV_FangYang.pdf)
+You can find my CV here: [Fang Yang's CV](../assets/CV.pdf)
 
 Email: f.yang@mpim-bonn.mpg.de
